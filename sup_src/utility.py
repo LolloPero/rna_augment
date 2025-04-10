@@ -5,7 +5,6 @@ import tensorflow as tf
 
 import tensorflow.keras.backend as K
 from sklearn.preprocessing import MinMaxScaler
-from src import utility
 import gc
 import sup_src.da_model as da_model
 
